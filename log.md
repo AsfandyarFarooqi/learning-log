@@ -6,3 +6,4 @@
 - 2026-10-10 Sat · 60 min · shapes with the small (3,4,4) album, to_rgb, class grid with a dict · hard: dicts and the loop
 - 2026-10-12 Mon · 50 min · Linear Transformations · Vector Multiplications · Matrices · Composition Matrix - multiple transformations · Order of multiplication in transformation matters but not in Associative property of Matrices
 - 2026-10-14 Wed · 50 min · rotate and shear a square, S@R vs R@S · hard: just the shear and push to any axis and how arrays x and y columns are displayed on paper and in np array
+- 2026-10-15 Thu · 50 min · homogeneous coords, slide with 3x3, 2D Helmert · hard: order of matrix operation turn and stretch first then slide was a bit difficult to grasp by looking at the array/matrix structure but then made sense when I visualized it
