@@ -10,3 +10,4 @@
 - 2026-10-19 Mon · 45 min · 3B1B ch5–6 (3D transformations, determinant) · hard: tired and puzzled over parallelogram derivation of determinant
 - 2026-10-19 Mon · 50 min · 3B1B ch5–6, determinant by hand and numpy, det = 0 squashes flat · hard: nothing since it was yesterday's continuation but the concepts were clear
 - 2026-10-23 Fri · 60 min · 3B1B ch7, inverse by hand and numpy, rank · hard: order of indexing to access numpy array elements · new: for rank all columns are to be checked for interdependency and multiple formulae may exist that involves 2 or more columns to create one of the column of the matric
+- 2026-10-26 Mon · 60 min · least squares: residuals, the bowl, lstsq on a levelling loop · hard: nothing hard, it was actually fascinating to learn the utility of the method. But Claude AI sometimes makes blunders and misquotes its own numbers
