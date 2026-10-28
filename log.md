@@ -12,3 +12,4 @@
 - 2026-10-23 Fri · 60 min · 3B1B ch7, inverse by hand and numpy, rank · hard: order of indexing to access numpy array elements · new: for rank all columns are to be checked for interdependency and multiple formulae may exist that involves 2 or more columns to create one of the column of the matric
 - 2026-10-26 Mon · 60 min · least squares: residuals, the bowl, lstsq on a levelling loop · hard: nothing hard, it was actually fascinating to learn the utility of the method. But Claude AI sometimes makes blunders and misquotes its own numbers
 - 2026-10-27 Tue · 90 min · line fit: GNSS station velocity, residual plot, RMSE, normal equations · hard: it was not hard, I wanted to learn the actual methodology apart from relying solely on code and algorithms, learned how least squares actually work. RMSE was cleared later on in the chatbox
+- 2026-10-28 Wed · 30 min · why "normal": shortest arrow, right angle, dot product = 0 · hard: nothing
