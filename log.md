@@ -13,3 +13,4 @@
 - 2026-10-26 Mon · 60 min · least squares: residuals, the bowl, lstsq on a levelling loop · hard: nothing hard, it was actually fascinating to learn the utility of the method. But Claude AI sometimes makes blunders and misquotes its own numbers
 - 2026-10-27 Tue · 90 min · line fit: GNSS station velocity, residual plot, RMSE, normal equations · hard: it was not hard, I wanted to learn the actual methodology apart from relying solely on code and algorithms, learned how least squares actually work. RMSE was cleared later on in the chatbox
 - 2026-10-28 Wed · 30 min · why "normal": shortest arrow, right angle, dot product = 0 · hard: nothing
+- 2026-10-30 Fri · 60 min · Helmert as least squares: a = s·cosθ, b = s·sinθ, rows of A, solved from 2 points · hard: nothing · new: transformation from local to national and how it fits with the real world
