@@ -16,3 +16,4 @@
 - 2026-10-30 Fri · 60 min · Helmert as least squares: a = s·cosθ, b = s·sinθ, rows of A, solved from 2 points · hard: nothing · new: transformation from local to national and how it fits with the real world
 - 2026-10-31 Sat · 90 min · Helmert from 5 control points: A built in a loop, lstsq, s and θ, residuals, RMSE 7.2 mm, corners to UTM · hard: nothing, i just wasnt able to focus, though i got the concept but wanted it to finish quickly
 - 2026-3-11 Tue · 120 min · Least square build using my own code with a Helmert Function to accept any local and utm · hard: computing the function · new: adding extra pegs or observations to filter the blunders · completed
+- 2026-11-03 Tue · 60 min · weighted least squares: p = 1/σ², weighted mean, P matrix, levelling loop weighted by length · medium and new: how weights change and why some measurements remain constant
