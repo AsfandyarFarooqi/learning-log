@@ -17,3 +17,4 @@
 - 2026-10-31 Sat · 90 min · Helmert from 5 control points: A built in a loop, lstsq, s and θ, residuals, RMSE 7.2 mm, corners to UTM · hard: nothing, i just wasnt able to focus, though i got the concept but wanted it to finish quickly
 - 2026-3-11 Tue · 120 min · Least square build using my own code with a Helmert Function to accept any local and utm · hard: computing the function · new: adding extra pegs or observations to filter the blunders · completed
 - 2026-11-03 Tue · 60 min · weighted least squares: p = 1/σ², weighted mean, P matrix, levelling loop weighted by length · medium and new: how weights change and why some measurements remain constant
+- 2026-11-07 Sat · 40 min · error propagation: variances add, σ of a mean of n runs = σ/√n, C_x = σ0²(AᵀPA)⁻¹, σ of h_P and h_Q by hand (2×2 inverse + two-routes check), Step 3 loop on paper, pre-analysis idea · hard: variance (not σ) grows with line length, so σ = 1 mm × √km
